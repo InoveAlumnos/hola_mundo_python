@@ -7,4 +7,4 @@ Web: [Inove](http://inove.com.ar)
 Programa creado para ensayar el correcto funcionamiento del entorno de instalación Python
 
 # Consultas
-alumnos@inove.com.ar\
+alumnos@inove.com.ar
